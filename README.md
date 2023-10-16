@@ -12,7 +12,7 @@ This webmap is the culmination of my Crime Analysis project, designed to shed li
 
 🔍 Interactive Visualizations: Explore crime hotspots and trends using our user-friendly web-based map.
 
-📅 Historical Analysis: Dive into crime data spanning the years 2016 to 2020, uncovering patterns and shifts over time.
+📅 Historical Analysis: Dive into crime data for the year 2020, uncovering patterns and shifts over time.
 
 📍 Geospatial Insights: Gain a spatial perspective by visualizing crime density across different neighborhoods and districts.
 
