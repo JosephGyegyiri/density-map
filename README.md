@@ -46,4 +46,4 @@ This project is free to reproduce.
 
 ---
 
-Ready to explore Atlanta's crime landscape? Let's get started! 🚀🔦   [Click here to view the map](https://josephgyegyiri.github.io/density-map/)
+Ready to explore Atlanta's crime landscape? Let's get started! 🚀🔦   [Click here to view the map](https://atl-crime.streamlit.app/)
