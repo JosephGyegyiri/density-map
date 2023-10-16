@@ -22,4 +22,11 @@ Enjoy your exploration! (Joseph Gyegyiri, 2022)
 """
         )
 
+st.write("About Author")
 
+st.write(" ")
+st.image('https://media.licdn.com/dms/image/D4E03AQHUL3mFEUHptg/profile-displayphoto-shrink_800_800/0/1668234298036?e=1697673600&v=beta&t=ZTWrHw786rKyoAWueLxq2BBg3MjHTEBZqAj5ahRz7uE')
+st.write("""
+         Joseph Gyegyiri is a graduate student of Florida Atlantic University, pursuing a masters in civil engineering with a concentartion in Geomatics and Transportation Engineering.
+         He aspire to be a geospatial analyst/developer where he would utilize geospatial science and engineering for a better world
+         """)
