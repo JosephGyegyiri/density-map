@@ -14,23 +14,9 @@ markdown = """
 Welcome to the Atlanta Crime Cluster Dashboard! 🚓🔍
 
 This interactive dashboard provides insights into crime data in Atlanta, Georgia. The data is sourced from the Atlanta Police Department (2020 data) and is presented in a visually appealing and informative way.
-
-## Explore the Crime Map
-
-Use the map to explore crime clusters across Atlanta. Click on the marker clusters to see detailed information about each crime incident.
-
-🗺️ **Crime Map**: Interact with the map to uncover the spatial distribution of different crime types.
-
-## About This App
-
-This app is designed to help you better understand crime patterns in Atlanta and make informed decisions. It's a valuable tool for law enforcement, city planners, and anyone interested in the safety of Atlanta.
-
-Feel free to explore the various features and analyses provided in this dashboard. If you have any questions or feedback, please don't hesitate to reach out.
-
-Enjoy your exploration! (Joseph Gyegyiri, 2022)
 """
 
-st.sidebar.title("About")
+#st.sidebar.title("About")
 st.sidebar.markdown(markdown)
 logo = "https://i.imgur.com/UbOXYAU.png"
 st.sidebar.image(logo)
