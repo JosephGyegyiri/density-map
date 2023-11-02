@@ -39,7 +39,7 @@ logo2 = 'https://josephgyegyiri.github.io/assets/images/out.jpg'
 st.sidebar.image(logo2)
 st.sidebar.markdown(markdown2)
 
-st.title("Atlanta Crime Cluster")
+st.title("Atlanta Crime Lab")
 
 
 @st.cache_data
