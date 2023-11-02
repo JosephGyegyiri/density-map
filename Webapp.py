@@ -35,7 +35,7 @@ logo = "https://i.imgur.com/UbOXYAU.png"
 st.sidebar.image(logo)
 
 st.sidebar.write("About Author")
-logo2 = 'https://media.licdn.com/dms/image/D4E03AQHUL3mFEUHptg/profile-displayphoto-shrink_800_800/0/1668234298036?e=1697673600&v=beta&t=ZTWrHw786rKyoAWueLxq2BBg3MjHTEBZqAj5ahRz7uE'
+logo2 = 'https://josephgyegyiri.github.io/assets/images/out.jpg'
 st.sidebar.image(logo2)
 st.sidebar.markdown(markdown2)
 
