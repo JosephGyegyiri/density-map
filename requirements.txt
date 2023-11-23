@@ -3,7 +3,7 @@ geemap
 geopandas
 jupyter-server-proxy
 keplergl
-leafmap
+git+https://github.com/opengeos/leafmap
 localtileserver
 nbserverproxy
 streamlit
